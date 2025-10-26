@@ -16,7 +16,7 @@ Obsessed with making the web prettier, faster, and just **better**.
 - 🧩 **Component Architect** – Reusable code is my love language 
 - 🎪 **Animation Junkie** – Making things move smoothly since 2024 
 - 🏗️ **Product Builder** – From prototype to production, I ship it 
-- 🎮 **Hackathon Warrior** – Gearing up for **100xNepal 2025** ---
+- 🎮 **Hackathon ** – Gearing up for **Late Nights** ---
 
 ## ⚡ Arsenal 
  
