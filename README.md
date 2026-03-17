@@ -76,7 +76,7 @@ _A custom component library for rapid prototyping_
 
 ## 📫 Connect
 
-- ✉️ Email: `hello@ritentam.dev` (replace with your email)
+- ✉️ Email: `ritendratam404@gmail.com`
 - � X: [@RitendraTamang](https://x.com/RitendraTamang)
 - 💼 LinkedIn: [Ritendra Tamang](https://www.linkedin.com/in/ritendra-tamang/)
 
